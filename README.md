@@ -1,2 +1,3 @@
-# hello-world
-Starting with Github with hello world
+# Git Start
+
+https://help.github.com/articles/adding-an-existing-project-to-github-using-the-command-line/
